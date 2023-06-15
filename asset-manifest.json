@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Face-Finder-React_APP/static/css/main.e69bd59f.css",
+    "main.js": "/Face-Finder-React_APP/static/js/main.cd986c35.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Face-Finder-React_APP/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Face-Finder-React_APP/index.html",
+    "main.e69bd59f.css.map": "/Face-Finder-React_APP/static/css/main.e69bd59f.css.map",
+    "main.cd986c35.js.map": "/Face-Finder-React_APP/static/js/main.cd986c35.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Face-Finder-React_APP/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e69bd59f.css",
+    "static/js/main.cd986c35.js"
+  ]
+}
